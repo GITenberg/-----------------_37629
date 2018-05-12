@@ -1,0 +1,31 @@
+_repo: '-----------------_37629'
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moraitides, Alexandros
+    aliases:
+    - Μωραϊτίδης, Αλέξανδρος
+    - Andronikos, Monachos
+    - Μωραιτιδης, Αλεξανδρος
+    birthdate: 1850
+    deathdate: 1929
+    gutenberg_agent_id: '34795'
+    url: http://www.gutenberg.org/2009/agents/34795
+description: ''
+gutenberg_issued: '2011-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37629'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greek fiction, Modern'
+- !lcc 'PA'
+- !lcsh 'Short stories'
+title: Διηγήματα, Τόμος Δ
+url: http://www.gutenberg.org/ebooks/37629
